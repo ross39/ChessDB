@@ -14,3 +14,6 @@ I hope to release a beta as soon as the basic features below are implemented. An
 - [ ] Save the pgn to a .pgn 
 - [ ] Search the pgn file for games
 - [ ] Analyse with Stockfish 
+
+# Licence 
+TL;DR This is a GNU GENERAL PUBLIC LICENSE
